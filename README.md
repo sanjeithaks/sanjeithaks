@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🌱 I’m currently learning<br>
-Reach out to me atkssanjeitha@gmail.com
+Reach out to me at kssanjeitha@gmail.com
 
 
 ## 🌐 Socials:
