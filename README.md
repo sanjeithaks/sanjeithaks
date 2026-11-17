@@ -17,9 +17,7 @@ Aug 2026 – Oct 2026 · On-site, Bengaluru
 - **Technologies / Skills:** DFCC, LOOMS, LOX handling, safety protocol compliance, Tejas and Hawk exposure
 
 **R&D Internship — Yantra Yug**
-
-- Built a LoRa-based IoT system with Tx & Rx for multi-km long-range, low-power data transfer, integrated with a Ground Station.
-- **Technologies / Skills:** Python, C++, LoRa, Git
+- Completed an R&D internship at Yantra Yug.
 
 # 🎓 Education
 
