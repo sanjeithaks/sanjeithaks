@@ -12,8 +12,13 @@ Final-year B.Tech Electronics and Communication Engineering student (2027) with 
 **Aircraft Division Internship — HAL**
 Aug 2026 – Oct 2026 · On-site, Bengaluru
 
-- Completed a 3-month internship at HAL Aircraft Division, studying wiring, assembly and quality workflows across 2 departments (LOOMS, Equipping) and the DFCC on Tejas and Hawk aircraft.
+A 3-month internship at Hindustan Aeronautics Limited (HAL), Aircraft Division, Bengaluru, that offered a close-up view of the aerospace industry — from observing the handling and use of LOX (Liquid Oxygen) and the DFCC (Digital Flying Control Computer) and its role in aircraft operations, to watching aircraft take off and land almost every day.
+
+- Explored the LOOMS and Equipping departments and learned about aircraft such as Tejas and Hawk.
+- Studied wiring, assembly and quality workflows across 2 departments, and the DFCC on Tejas and Hawk aircraft.
+- Understood how processes, systems, documentation, wiring, assembly, inspection and quality practices come together in aircraft manufacturing.
 - Built strong discipline in process documentation, safety compliance, and defect-free, multi-stage inspection cycles.
+- Developed an appreciation for the precision, discipline, safety and attention to detail required at every stage — where even the smallest detail can have a significant impact.
 - **Technologies / Skills:** DFCC, LOOMS, LOX handling, safety protocol compliance, Tejas and Hawk exposure
 
 **R&D Internship — Yantra Yug**
