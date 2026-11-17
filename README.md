@@ -5,6 +5,11 @@
 Reach out to me at kssanjeitha@gmail.com
 
 
+# 💼 Experience:
+**Intern — Hindustan Aeronautics Limited (HAL)**
+Aircraft Division, HAL, Bangalore · 01 Aug 2026 – 01 Oct 2026
+Successfully completed an internship at Aircraft Division, HAL, Bangalore, as a B.Tech (ECE) student of Cambridge Institute of Technology.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanj.eitha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sanjeitha K S) 
 
