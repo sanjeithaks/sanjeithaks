@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there!.. 👋
 
 # 💫 About Me:
 🌱 I’m currently learning<br>
@@ -23,6 +23,9 @@ A 3-month internship at Hindustan Aeronautics Limited (HAL), Aircraft Division, 
 
 **R&D Internship — Yantra Yug**
 - Completed an R&D internship at Yantra Yug.
+- Built a LoRa-based IoT system with  Tx &Rx  for kms with 87% Latency.
+- Gateway for long-range, low-power data transfer, integrated with a Ground Station
+- Technologies / Skills Used : Python, C++, LoRa, Git
 
 # 🎓 Education
 
