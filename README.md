@@ -5,7 +5,7 @@
 Reach out to me at kssanjeitha@gmail.com
 
 ## 🧭 Professional Summary
-Final-year B.Tech Electronics and Communication Engineering student (2027) with hands-on experience building AI-driven and IoT systems in Python. Delivered 4 projects spanning real-time computer vision (driver fatigue detection with OpenCV), a Flask-based environmental data pipeline, and an embedded AI skin cancer detection device (MobileNetV2, Grad-CAM, Raspberry Pi). Recognized with Best Nature-Based Solution at Terrabyte 2026, 3rd place at the Tech Vision 2026 National Project Expo, and a Top 40 finish among 400+ teams (top 10%) at MSME Hackathon 5.0. Completed a 3-month internship at HAL’s Aircraft Division and an R&D internship at Yantrayug, building discipline in documentation, quality processes, and safety-critical systems. Quick, self-driven learner who picks up new tools and APIs independently and collaborates well in teams.
+Final-year B.Tech Electronics and Communication Engineering student (2027) with hands-on experience building AI-driven and IoT systems in Python. Delivered 5 projects spanning real-time computer vision (driver fatigue detection with OpenCV), a Flask-based environmental data pipeline, an embedded AI skin cancer detection device (MobileNetV2, Grad-CAM, Raspberry Pi), and a Verilog RTL I2C game-controller interface in a System-on-Chip. Recognized with Best Nature-Based Solution at Terrabyte 2026, 3rd place at the Tech Vision 2026 National Project Expo, and a Top 40 finish among 400+ teams (top 10%) at MSME Hackathon 5.0. Completed a 3-month internship at HAL’s Aircraft Division and an R&D internship at Yantrayug, building discipline in documentation, quality processes, and safety-critical systems. Quick, self-driven learner who picks up new tools and APIs independently and collaborates well in teams.
 
 # 💼 Work Experience
 
@@ -34,6 +34,13 @@ Bachelor of Engineering (B.E.) — Electronics and Communication Engineering (EC
 
 # 🚀 Projects
 
+**I2C-Based Game Controller Interface in SoC** · 2026 · [Repository](https://github.com/sanjeithaks/I2C-Based-Game-Controller-SoC)
+- Designed a Verilog HDL I2C master and an address-decoding game-controller slave with START/STOP, ACK/NACK, 7-bit addressing and an APB-style `apb_start`/`apb_done` handshake, integrated in a synthesizable `soc_top`.
+- Built a self-checking testbench that reconstructs the SCL/SDA traffic and verifies a nominal read, a second button pattern and a NACK case; all checks pass and the received byte matches the controller input (0xAC and 0x3C).
+- Fixed real RTL defects uncovered during verification (SDA sampling phase, lost final data bit, missing address decode/ACK, bus contention) while preserving the original sources beside the revision.
+- **Award:** 3rd Place — Tech Vision 2026 National Project Expo, CMRIT Bengaluru.
+- **Technologies / Tools:** Verilog HDL, I2C, AMBA APB, FSM, Digital Design, Xilinx Vivado, Icarus Verilog, Yosys, GTKWave
+
 **Driver Fatigue & Distracted Driving Detection System** · 2024
 - Developed a real-time driver fatigue and distraction detection system using Python and OpenCV.
 - Tuned thresholds and preprocessing to cut false alerts by 82%, with 90% accuracy.
@@ -51,6 +58,7 @@ Bachelor of Engineering (B.E.) — Electronics and Communication Engineering (EC
 # 🛠️ Skills
 
 - **Programming Languages:** Python, C++, SQL, Generative AI, ML
+- **RTL / Digital Design:** Verilog HDL, I2C, AMBA APB, FSM design, RTL verification, Xilinx Vivado, Icarus Verilog, Yosys, GTKWave
 - **Frameworks & Libraries:** FastAPI, Node.js
 - **Tools & Platforms:** Git, GitHub, Linux
 - **Databases:** MySQL
@@ -65,7 +73,7 @@ Bachelor of Engineering (B.E.) — Electronics and Communication Engineering (EC
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanj.eitha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sanjeitha K S) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=flat-square&logo=mysql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
+![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-12314f.svg?style=flat-square) ![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-9f1239.svg?style=flat-square) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=flat-square&logo=mysql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sanjeithaks&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
